@@ -1,0 +1,14 @@
+1. fentanyyli
+2. scopolamiini
+3. flakka
+4. methamphetamiini
+5. mdma
+6. sienet
+7. benzoi
+8. percoset
+9. codeiini
+10. xanny
+11. lsd
+12. pcp
+13. enkelitomu
+14. 😎
