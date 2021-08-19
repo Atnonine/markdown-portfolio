@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*tämä on italic 😎*
+__tämä on BOLD__
+__voit *yhdistää* niitä__
